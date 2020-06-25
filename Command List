@@ -1,0 +1,3 @@
+# Create an empty Vector
+c <- numeric(length = 0)
+c <- c(NA)
